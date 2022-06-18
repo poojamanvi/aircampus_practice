@@ -1,4 +1,4 @@
-<h2>Oputput</h2>
-<img src="image/readme.png" alt="img"
+<h1>Output</h1>
+<img src="image/readme.png" alt="img"git
 
 
